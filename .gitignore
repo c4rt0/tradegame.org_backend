@@ -1,0 +1,10 @@
+# Environmental Directories
+__pycache__
+.pytest_cache
+.mongo-volume
+database
+tradegame_venv
+venv
+
+# Files
+.DS_Store
